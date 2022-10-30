@@ -1,9 +1,19 @@
 body {
-    background-color: #000;
-    color: #fff;
+    background-color: #111;
+    color: #fefefe;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-form {
+h1:hover {
+    color: #fff;
+    font-size: 35px;
+    background-color: #222;
+}
+
+#loginfield {
     text-align: left;
+    border: 2px solid #fefefe;
+    display: inline-block;
+    padding: 10px;
 }
 
